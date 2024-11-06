@@ -15,4 +15,4 @@ Contains HTML and CSS files for JNL 221's final project.
    
 TODO in-class: In the head of final.html, under the appropriate comment, add the Google font 'Poppins' to your project. (We haven't learned how to do this so don't worry about it for homework. We will go over in class next week.)   
 
-To submit: Upload `final.html`, `final.css`, and `syr.png` to your own repository. Like you did for `basic.html`, insert the appropriate link for your final.html webpage into our 'github accounts' Google Doc: https://docs.google.com/document/d/1HWXikgd9UkLBT1VpUJwwek_Pg07-6rAPPhDqkuArrsI/edit.  
+To submit: Upload `final.html`, `final.css`, and `syr.png` to your own repository. Like you did for `basic.html`, insert the appropriate link for your final.html webpage into our 'github accounts' Google Doc: https://docs.google.com/document/d/1zbyLEyrDpyFYwERD5F0IcoWcx9h5qh-rLtE72y7_0uk/edit?usp=sharing
